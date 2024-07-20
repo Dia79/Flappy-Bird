@@ -83,15 +83,15 @@ This is a simple implementation of the classic **Flappy Bird** game using Java a
 
 ### Game Start Page
 
-<img src="Screenshot/StartGame.png" alt="StartGame" width="360" height="640" >
+<img src="Screenshots/StartGame.png" alt="StartGame" width="360" height="640" >
 
 ### Game Screen
 
-<img src="Screenshot/GameScreen.png" alt="GameScreen" width="360" height="640" >
+<img src="Screenshots/GameScreen.png" alt="GameScreen" width="360" height="640" >
 
 ### Game Over Page
 
-<img src="Screenshot/GameOver.png" alt="GameOver" width="360" height="640" >
+<img src="Screenshots/GameOver.png" alt="GameOver" width="360" height="640" >
 
 ## License
 
